@@ -213,6 +213,27 @@ nav ul li a:hover{
     margin-top: 10px;
 }
 
+.product-text .btn{
+    background-color: rgb(1, 1, 186);
+    color: white;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 20px;
+    border: 2px solid  rgb(1, 1, 186);
+    cursor: pointer;
+    transition: all 0.5s ease;
+}
+
+.btn:hover{
+    background-color: transparent;
+    color: black;
+    border: 2px solid black;
+}
+
 /*CONTACT SECTION*/
 
 .contact{
